@@ -1,0 +1,1 @@
+﻿"Hello World!" | Out-File -FilePath "C:\Users\DEMO\Desktop\UWI\Week 3\text.txt"
