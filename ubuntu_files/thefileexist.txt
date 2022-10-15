@@ -1,0 +1,5 @@
+To:antonio.arthur@gmail.com
+From:jamal.alleyne@outlook.com
+Subject: Dwayne Clarke | Lab2 #7: The File Exist
+
+The file directorylist.txt exist

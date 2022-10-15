@@ -1,0 +1,5 @@
+To:dwayne.clarke@live.com
+From:jamal.alleyne@outlook.com
+Subject: Dwayne Clarke | Lab2 Exercise #3: Send CSV Export
+
+See attached for lab2-ex-mqsql.csv file

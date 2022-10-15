@@ -1,0 +1,17 @@
+crontest.txt
+Desktop
+directorylist.txt
+Documents
+Downloads
+lab2-1.sh
+lab2-2.sh
+lab2-3.sh
+lab2-4.sh
+Music
+Pictures
+Public
+snap
+Templates
+text.txt
+Videos
+week2.bs
