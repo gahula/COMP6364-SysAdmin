@@ -1,8 +1,8 @@
 ﻿$SmtpServer = 'smtp.office365.com'
-$SmtpUser = 'jamal.alleyne@outlook.com'
+$SmtpUser = '***.***@outlook.com'
 $smtpPassword = '****'
-$MailtTo = 'antonio.arthur@gmail.com'
-$MailFrom = 'jamal.alleyne@outlook.com'
+$MailtTo = '***.***@gmail.com'
+$MailFrom = '***.***@outlook.com'
 $MailSubject = "Dwayne Lab 2 Windows - Log.txt Notification" 
 $Attachment = "C:\Users\DEMO\Desktop\UWI\Week 3\log.txt"
 $Body = Get-Content "C:\Users\DEMO\Desktop\UWI\Week 3\log.txt"
